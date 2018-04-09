@@ -1,0 +1,9 @@
+﻿empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt empt
+coin coin coin empt empt empt coin coin empt empt empt coin coin coin empt empt empt coin coin coin
+empt empt empt terL ter0 terR empt empt terL ter0 terR empt empt empt terL ter0 terR empt empt empt
+empt empt coin coin empt empt empt empt empt empt empt empt empt empt empt empt coin coin empt empt
+ter0 terR empt empt empt coin coin coin empt empt empt coin coin coin empt empt empt empt terL ter0
+empt empt empt empt empt empt empt empt terL ter0 terR empt empt empt empt empt empt empt empt empt
+empt empt empt empt empt empt empt empt empt coin empt empt empt empt empt empt empt empt empt empt
+ter0 ter1 ter0 ter1 ter0 ter1 ter0 ter1 terR coin terL ter1 ter0 ter1 ter0 ter1 ter0 ter1 ter0 ter1
+term term term term term term term term terQ coin terP term term term term term term term term term
